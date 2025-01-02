@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mí
 
-- 💻 **Especialista en desarrollo full stack** con experiencia en **PHP (Laravel), Python (Django)**, y **JavaScript (Angular, React)**.
+- 💻 **Desarrollador Full Stack** con experiencia en **PHP (Laravel), Python (Django)**, y **JavaScript (Angular, React)**.
 - 📐 Enfocado en **arquitectura de software**, siguiendo principios SOLID y buenas prácticas como **Clean Code** y las recomendaciones de PSR.
 - 🌐 **Desarrollo de APIs** RESTful con autenticación JWT, microservicios, y aplicaciones SaaS.
 - 🛠️ **Integración de Docker** para ambientes de desarrollo y despliegue, asegurando escalabilidad y rendimiento.
